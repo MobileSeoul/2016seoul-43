@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto">
+
+	<item
+		android:id="@+id/action_naver_map"
+		android:icon="@drawable/ic_menu_map"
+		android:title="Map"
+		app:showAsAction="ifRoom" />
+
+	<item
+		android:id="@+id/action_naver_tts"
+		android:icon="@drawable/ic_btn_tts"
+		android:title="TTS"
+		app:showAsAction="ifRoom" />
+
+	<item
+		android:id="@+id/action_go_setting"
+		android:icon="@drawable/ic_menu_setting"
+		android:title="Setting"
+		app:showAsAction="ifRoom" />
+
+</menu>

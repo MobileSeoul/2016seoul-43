@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.sg0101.app.junggutour.MainActivity">
+
+    <TextView
+        android:id="@android:id/text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="125dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:textSize="42sp"
+        android:textColor="@android:color/white"
+        android:shadowColor="#333333"
+        android:shadowDx="-1"
+        android:shadowDy="-1"
+        android:shadowRadius="2"
+        android:text="@string/app_name"/>
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginBottom="125dp"
+        android:layout_centerInParent="true"
+        android:layout_alignParentBottom="true"
+        android:src="@drawable/ic_main"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginBottom="22dp"
+        android:src="@drawable/ccl01"/>
+
+    <TextView
+        android:id="@android:id/text2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="22dp"
+        android:layout_marginBottom="22dp"
+        android:textSize="14sp"
+        android:textColor="@android:color/white"
+        android:text="@string/providing_organization_text"/>
+
+</RelativeLayout>

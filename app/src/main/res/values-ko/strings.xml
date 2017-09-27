@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">서울중구해설투어</string>
+
+    <string name="msg_wait_guide_voice">잠시만 기다려 주세요. 해설 준비중 입니다 ^^</string>
+    <string name="title_activity_settings">설정</string>
+    <string name="title_activity_detail_design_support">상세화면</string>
+    <string name="send_to">공유</string>
+
+    <string name="detail_no_translation_text">번역 없음</string>
+    <string name="detail_more_information_text">추가 정보</string>
+
+    <string name="providing_organization_text">자료출처 : 중구, 한국관광공사</string>
+    <string name="providing_information_text">서울시 중구 스토리텔링 대상 현황 정보, 사진 정보 제공</string>
+    <string name="providing_picture_text">한국관광공사의 사진갤러리 정보</string>
+
+    <string name="settings_select_korean_text">한국어 선택</string>
+    <string name="settings_select_english_text">영어 선택</string>
+    <string name="settings_select_chinese_text">중국어 선택</string>
+    <string name="settings_select_male_voice_text">남성 소리 선택</string>
+    <string name="settings_select_female_voice_text">여성 소리 선택</string>
+    <string name="settings_select_language_text">언어 선택</string>
+    <string name="settings_select_voice_text">목소리 선택</string>
+    <string name="settings_source_text">출처</string>
+
+    <string name="text_permission_grant_title">"권한 획득"</string>
+    <string name="text_permission_grant_msg">
+        "안드로이드6.0 이상에서는 퍼미션 사용에 동의하셔야만 해당 기능을 이용할 수 있습니다.
+        다음 화면에서 '권한' 에 들어간 후, '위치' 권한을 활성화 해주세요"
+    </string>
+
+
+
+</resources>

@@ -1,0 +1,48 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@android:color/white</item>
+        <item name="colorPrimaryDark">@color/md_black_1000</item>
+        <item name="colorAccent">@color/md_blue_grey_700</item>
+    </style>
+
+    <style name="scrollview_container_padding">
+        <item name="android:clipToPadding">false</item>
+        <item name="android:scrollbarStyle">outsideOverlay</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+    </style>
+
+    <!-- Suggested community -->
+
+    <style name="carddemo_suggested_header_text"></style>
+
+    <style name="carddemo_suggested_text">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">#D0D0D0</item>
+    </style>
+
+    <style name="carddemo_suggested_text_bold">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="carddemo_suggested_text_bold1">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="TextAppearance.AppCompat.Display1.Inverse" parent="TextAppearance.AppCompat.Display1">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+</resources>

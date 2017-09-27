@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">JungGu Guide Tour</string>
+
+    <string name="msg_wait_guide_voice">Please wait... prepare to guide..</string>
+    <string name="title_activity_detail_design_support">DetailDesignSupport</string>
+    <string name="title_activity_settings">Setting</string>
+
+    <string name="send_to">Share</string>
+
+    <string name="detail_no_translation_text">No translation</string>
+    <string name="detail_more_information_text">More Information</string>
+
+    <string name="providing_organization_text">Source : Jung-gu Office, Korea Tourism Organization</string>
+    <string name="providing_information_text">
+        Provide Jung-gu StoryTelling and picture information
+    </string>
+    <string name="providing_picture_text">Gallery picture of the Korea Tourism Organization information</string>
+
+    <string name="settings_select_korean_text">Select Korean</string>
+    <string name="settings_select_english_text">Select English</string>
+    <string name="settings_select_chinese_text">Select Chinese</string>
+    <string name="settings_select_male_voice_text">Select Male Voice</string>
+    <string name="settings_select_female_voice_text">Select Female Voice</string>
+    <string name="settings_select_language_text">Select Language</string>
+    <string name="settings_select_voice_text">Select Voice</string>
+    <string name="settings_source_text">Source</string>
+
+    <string name="text_permission_grant_title">Permission grant</string>
+    <string name="text_permission_grant_msg">
+        If you want use this function, you have to agree use permission.
+        Please Tap Permissions and Enable Location permission.
+    </string>
+
+
+
+
+</resources>
